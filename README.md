@@ -38,7 +38,7 @@ la vida o el trabajo de las personas....
 ### Conclusiones
 ### Vias futuras
 
-### Bibliografía / WebGrafía
+### Bibliografía / Webgrafía
 * [Next.js ~ Frontend](https://nextjs.org/)
 * [Nest.js ~ Backend](https://nestjs.com/)
 
